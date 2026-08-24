@@ -1,12 +1,12 @@
 {
     "pack": {
-        "pack_format": 101.1,
+        "pack_format": 107.1,
         "supported_formats": {
             "min_inclusive": 64,
-            "max_inclusive": 101.1
+            "max_inclusive": 107.1
         },
         "min_format": [64, 0],
-        "max_format": [101.1, 0],
+        "max_format": [107.1, 0],
         "description": "Vanilla-style enhancements and QOL changes"
     }
 }
