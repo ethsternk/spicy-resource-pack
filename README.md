@@ -1,6 +1,6 @@
 # Spicy Resource Pack
 
-A combination of some vanilla-friendly fun or quality-of-life resource packs.
+A combination of some fun and/or quality-of-life resource packs, all vanilla-friendly.
 
 ## Resource Pack List
 
