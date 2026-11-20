@@ -18,9 +18,15 @@ https://modrinth.com/resourcepack/3d-ladders
 
 <img width="707" height="114" alt="almost-vanilla-potions" src="https://github.com/user-attachments/assets/e65c5488-2e4b-4bc3-8b60-957abf38ebba" />
 
-https://modrinth.com/resourcepack/almost-vanilla-potions/gallery
+https://modrinth.com/resourcepack/almost-vanilla-potions
 
 <img src="https://cdn.modrinth.com/data/XsLCz9bM/images/0ffd848a0749247ef1efe3522e0ea143e226e751.png">
+
+<img width="710" height="116" alt="Screenshot 2026-11-20 175023" src="https://github.com/user-attachments/assets/0a11efd0-0eae-4d66-bdf6-be25d7f34350" />
+
+https://modrinth.com/resourcepack/enhanced-boss-bars
+
+<img width="1440" height="619" alt="fabf695d7e372091622e8a9a5c290e14eec16309" src="https://github.com/user-attachments/assets/74247e7f-8e7e-4234-b483-f0e7b04cd9f4" />
 
 <img width="697" height="122" alt="even-better-enchants" src="https://github.com/user-attachments/assets/9fb95e5e-6785-47a3-9d8e-13769b6d5a7f" />
 
@@ -39,6 +45,12 @@ https://modrinth.com/resourcepack/low-on-fire
 https://modrinth.com/resourcepack/low-shield-pack
 
 <img src="https://cdn.modrinth.com/data/CZrLuVQo/images/d5c7c07ef008e0a82f5786a17eb45ca30a1d5f3e.png">
+
+<img width="840" height="118" alt="Screenshot 2026-11-20 175105" src="https://github.com/user-attachments/assets/8757362b-921b-45e5-a468-49d0d79b0730" />
+
+https://modrinth.com/resourcepack/os-colorful-grasses
+
+<img width="2560" height="1600" alt="fdfb8524e10810866a4aea7ad51e1920430dd309" src="https://github.com/user-attachments/assets/f0e6b610-6fe0-41cf-9f1a-fbb846254a07" />
 
 <img width="755" height="118" alt="motschens-better-leaves" src="https://github.com/user-attachments/assets/e78ccb97-921c-4dd5-b9ec-7bf2c474122b" />
 
