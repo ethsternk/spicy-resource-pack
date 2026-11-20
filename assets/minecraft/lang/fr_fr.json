@@ -1,0 +1,12 @@
+{
+  "language.name": "Français",
+  "language.region": "France",
+  "language.code": "fr_fr",
+
+  "event.minecraft.raid": "\uE903",
+  "entity.minecraft.wither": "\uE901",
+  "entity.minecraft.ender_dragon": "\uE902",
+  "event.minecraft.raid.raiders_remaining": "",
+  "event.minecraft.raid.victory": "",
+  "event.minecraft.raid.defeat": ""
+}

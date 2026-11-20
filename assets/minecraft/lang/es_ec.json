@@ -1,0 +1,12 @@
+{
+  "language.name": "Español",
+  "language.region": "Ecuador",
+  "language.code": "es_ec",
+
+  "event.minecraft.raid": "\uE903",
+  "entity.minecraft.wither": "\uE901",
+  "entity.minecraft.ender_dragon": "\uE902",
+  "event.minecraft.raid.raiders_remaining": "",
+  "event.minecraft.raid.victory": "",
+  "event.minecraft.raid.defeat": ""
+}
