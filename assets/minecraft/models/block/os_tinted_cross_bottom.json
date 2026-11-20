@@ -1,0 +1,76 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Oslypsis",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#cross"
+	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8.17449, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8.17449, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [13.24578, 0.10084, 1.2],
+			"to": [13.24578, 16.10084, 15.2],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 0, "axis": "y", "origin": [4.25, 4.36104, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [2.75422, 0.10084, 0.8],
+			"to": [2.75422, 16.10084, 14.8],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.75, 0.36104, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.7, 0.10084, 2.75422],
+			"to": [14.7, 16.10084, 2.75422],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 0.36104, 2.75], "rescale": true},
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.8, 0.10084, 13.24578],
+			"to": [14.8, 16.10084, 13.24578],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.36104, 13.25], "rescale": true},
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0}
+			}
+		}
+	]
+}

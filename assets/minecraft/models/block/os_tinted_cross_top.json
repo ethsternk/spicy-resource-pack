@@ -1,0 +1,120 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench by Oslypsis",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#cross"
+	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8.17449, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8.17449, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.8, -12.24916, 0.99578],
+			"to": [14.8, 3.75084, 0.99578],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, -7.98896, 10], "rescale": true},
+			"faces": {
+				"north": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.8, -12.24916, 14.99578],
+			"to": [14.8, 3.75084, 14.99578],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, -7.98896, 6], "rescale": true},
+			"faces": {
+				"north": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [14.99578, -12.24916, 1.2],
+			"to": [14.99578, 3.75084, 15.2],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [6, -7.98896, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.99578, -12.24916, 1.2],
+			"to": [0.99578, 3.75084, 15.2],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [10, -7.98896, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.99578, 3.75084, 1.2],
+			"to": [0.99578, 19.75084, 15.2],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [10, 8.01104, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [14.99578, 3.75084, 1.2],
+			"to": [14.99578, 19.75084, 15.2],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [6, 8.01104, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.8, 3.75084, 14.99578],
+			"to": [14.8, 19.75084, 14.99578],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 8.01104, 6], "rescale": true},
+			"faces": {
+				"north": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.8, 3.75084, 0.99578],
+			"to": [14.8, 19.75084, 0.99578],
+			"shade": false,
+"shade_direction_override": "up",
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 8.01104, 10], "rescale": true},
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [15, 0, 1, 16], "texture": "#cross", "tintindex": 0}
+			}
+		}
+	]
+}

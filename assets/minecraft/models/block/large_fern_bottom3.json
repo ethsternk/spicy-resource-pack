@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/os_tinted_cross_bottom",
+  "textures": {
+    "cross": "minecraft:block/large_fern_bottom3"
+  }
+}
